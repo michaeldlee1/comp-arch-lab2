@@ -1,0 +1,14 @@
+simoutorder_output.txt:sim_CPI                      1.9303 # cycles per instruction
+simoutorder_output.txt:sim_IPC                      0.5181 # instructions per cycle
+simoutorder_output.txt:sim_num_insn              260750183 # total number of instructions committed
+simoutorder_output.txt:sim_num_loads              48509448 # total number of loads committed
+simoutorder_output.txt:sim_num_stores         5262310.0000 # total number of stores committed
+simoutorder_output.txt:sim_num_branches            2121444 # total number of branches committed
+simoutorder_output.txt:dl1.accesses               53771758 # total number of accesses
+simoutorder_output.txt:dl1.hits                   50296689 # total number of hits
+simoutorder_output.txt:dl1.misses                  3475069 # total number of misses
+simoutorder_output.txt:dl1.miss_rate                0.0646 # miss rate (i.e., misses/ref)
+simoutorder_output.txt:il1.accesses              269104823 # total number of accesses
+simoutorder_output.txt:il1.hits                  269103615 # total number of hits
+simoutorder_output.txt:il1.misses                     1208 # total number of misses
+simoutorder_output.txt:il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)

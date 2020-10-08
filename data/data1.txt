@@ -1,0 +1,14 @@
+sim_CPI                      2.2039 # cycles per instruction
+sim_IPC                      0.4537 # instructions per cycle
+sim_num_insn              276315934 # total number of instructions committed
+sim_num_loads              57783286 # total number of loads committed
+sim_num_stores         8372870.0000 # total number of stores committed
+sim_num_branches            8323282 # total number of branches committed
+dl1.accesses               66156156 # total number of accesses
+dl1.hits                   61267521 # total number of hits
+dl1.misses                  4888635 # total number of misses
+dl1.miss_rate                0.0739 # miss rate (i.e., misses/ref)
+il1.accesses              309246286 # total number of accesses
+il1.hits                  309245209 # total number of hits
+il1.misses                     1077 # total number of misses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
